@@ -2,8 +2,8 @@ import React from "react";
 
 const Sobre = () => {
     return (
-        <div>
-            <h1>Sobre nós</h1>
+        <div className="text-center p-6">
+            <h1 className="font-bold text-xl">Sobre nós</h1>
             <p>Esta é a página sobre nós.</p>
         </div>
     );
